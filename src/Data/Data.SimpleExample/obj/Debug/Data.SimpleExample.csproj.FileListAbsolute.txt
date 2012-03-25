@@ -1,0 +1,5 @@
+C:\src\later\src\Data\Data.SimpleExample\bin\Debug\Data.SimpleExample.dll
+C:\src\later\src\Data\Data.SimpleExample\bin\Debug\Data.SimpleExample.pdb
+C:\src\later\src\Data\Data.SimpleExample\obj\Debug\ResolveAssemblyReference.cache
+C:\src\later\src\Data\Data.SimpleExample\obj\Debug\Data.SimpleExample.dll
+C:\src\later\src\Data\Data.SimpleExample\obj\Debug\Data.SimpleExample.pdb

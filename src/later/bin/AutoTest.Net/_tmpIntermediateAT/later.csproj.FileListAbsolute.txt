@@ -1,0 +1,10 @@
+c:\src\later\later\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
+c:\src\later\later\bin\AutoTest.Net\_tmpIntermediateAT\later.exe
+c:\src\later\later\bin\AutoTest.Net\_tmpIntermediateAT\later.pdb
+c:\src\later\later\bin\AutoTest.Net\later.exe
+c:\src\later\later\bin\AutoTest.Net\later.pdb
+C:\src\later\src\later\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
+C:\src\later\src\later\bin\AutoTest.Net\_tmpIntermediateAT\later.exe
+C:\src\later\src\later\bin\AutoTest.Net\_tmpIntermediateAT\later.pdb
+C:\src\later\src\later\bin\AutoTest.Net\later.exe
+C:\src\later\src\later\bin\AutoTest.Net\later.pdb

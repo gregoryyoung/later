@@ -1,0 +1,5 @@
+C:\src\later\src\Data\Data.SimpleExample\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
+C:\src\later\src\Data\Data.SimpleExample\bin\AutoTest.Net\_tmpIntermediateAT\Data.SimpleExample.dll
+C:\src\later\src\Data\Data.SimpleExample\bin\AutoTest.Net\_tmpIntermediateAT\Data.SimpleExample.pdb
+C:\src\later\src\Data\Data.SimpleExample\bin\AutoTest.Net\Data.SimpleExample.dll
+C:\src\later\src\Data\Data.SimpleExample\bin\AutoTest.Net\Data.SimpleExample.pdb

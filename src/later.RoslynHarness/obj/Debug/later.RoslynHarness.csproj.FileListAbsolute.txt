@@ -1,0 +1,5 @@
+C:\src\later\src\later.RoslynHarness\bin\Debug\later.RoslynHarness.dll
+C:\src\later\src\later.RoslynHarness\bin\Debug\later.RoslynHarness.pdb
+C:\src\later\src\later.RoslynHarness\obj\Debug\ResolveAssemblyReference.cache
+C:\src\later\src\later.RoslynHarness\obj\Debug\later.RoslynHarness.dll
+C:\src\later\src\later.RoslynHarness\obj\Debug\later.RoslynHarness.pdb

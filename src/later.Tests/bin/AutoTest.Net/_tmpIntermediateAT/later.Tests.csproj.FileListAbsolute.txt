@@ -1,0 +1,8 @@
+C:\src\later\src\later.Tests\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
+C:\src\later\src\later.Tests\bin\AutoTest.Net\_tmpIntermediateAT\later.Tests.dll
+C:\src\later\src\later.Tests\bin\AutoTest.Net\_tmpIntermediateAT\later.Tests.pdb
+C:\src\later\src\later.Tests\bin\AutoTest.Net\later.Tests.dll
+C:\src\later\src\later.Tests\bin\AutoTest.Net\later.Tests.pdb
+C:\src\later\src\later.Tests\bin\AutoTest.Net\nunit.framework.dll
+C:\src\later\src\later.Tests\bin\AutoTest.Net\later.RoslynHarness.dll
+C:\src\later\src\later.Tests\bin\AutoTest.Net\later.RoslynHarness.pdb
