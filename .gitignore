@@ -14,6 +14,11 @@ _ReSharper.*
 *.swp
 *~
 SolutionVersion.cs
+lib/MoMA/Reports/submit.xml
+build_output
+ReleaseBinaries
+code_drop
+TestResult.xml
 openlocal.sh
 openlocal.bat
 ~$*

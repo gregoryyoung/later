@@ -8,3 +8,6 @@ C:\src\later\src\later\bin\AutoTest.Net\_tmpIntermediateAT\later.exe
 C:\src\later\src\later\bin\AutoTest.Net\_tmpIntermediateAT\later.pdb
 C:\src\later\src\later\bin\AutoTest.Net\later.exe
 C:\src\later\src\later\bin\AutoTest.Net\later.pdb
+C:\src\later\src\later\bin\AutoTest.Net\later.RoslynHarness.dll
+C:\src\later\src\later\bin\AutoTest.Net\later.RoslynHarness.pdb
+C:\src\later\src\later\bin\AutoTest.Net\testclass.cs

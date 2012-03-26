@@ -3,3 +3,6 @@ C:\src\later\src\later\bin\Debug\later.pdb
 C:\src\later\src\later\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\src\later\src\later\obj\x86\Debug\later.exe
 C:\src\later\src\later\obj\x86\Debug\later.pdb
+C:\src\later\src\later\bin\Debug\later.RoslynHarness.dll
+C:\src\later\src\later\bin\Debug\later.RoslynHarness.pdb
+C:\src\later\src\later\bin\Debug\testclass.cs

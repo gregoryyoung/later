@@ -34,6 +34,8 @@
     <Reference Include="nunit.framework">
       <HintPath>..\..\lib\NUnit\nunit.framework.dll</HintPath>
     </Reference>
+    <Reference Include="Roslyn.Compilers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Roslyn.Compilers.CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -43,6 +45,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Data\foo.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\foo2.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Compile Include="RoslynHarness\CompilerArgumentBuilder.cs" />
+    <Compile Include="RoslynHarness\when_initializing_roslyn.cs" />
     <Compile Include="RoslynHarness\when_parsing_command_line_arguments.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
